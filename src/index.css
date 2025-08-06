@@ -4,6 +4,15 @@
   padding: 0 32px;
 }
 
+.shopping-card {
+  width: 25vw;
+}
+
+.main-container {
+  display: flex;
+  padding-right: 32px;
+}
+
 @media (max-width: 850px) {
   .product-container {
     flex-direction: column;
